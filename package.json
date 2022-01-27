@@ -1,0 +1,16 @@
+{
+  "name": "node_updater",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cli-progress": "^3.9.0",
+    "node-fetch": "^2.6.1",
+    "wget-improved": "^3.2.1"
+  }
+}
